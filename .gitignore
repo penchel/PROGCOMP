@@ -1,0 +1,46 @@
+# Executáveis e bibliotecas
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Arquivos de Debug e Cache do MSVC
+*.pdb
+*.ilk
+*.idb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.db
+*.ipch
+
+# Pastas geradas
+[Bb]in/
+[Oo]bj/
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Bytecode compilado
+*.class
+
+# Empacotamento
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+target/
+build/
+out/
+
+# IDEs (IntelliJ / Eclipse)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
